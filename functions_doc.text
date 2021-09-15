@@ -1,0 +1,7 @@
+=======================
+== Functions Docment ==
+=======================
+
+
+getAllFrom($field, $table, $where = null, $and = null, $orderfield, $ordering = 'DESC')
+
